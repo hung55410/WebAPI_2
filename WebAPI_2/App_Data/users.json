@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "Id": 1,
+      "Username": "user1",
+      "Password": "password1",
+      "Fullname": "fullname1",
+      "IsActive": true
+    },
+    {
+      "Id": 2,
+      "Username": "user2",
+      "Password": "password2",
+      "Fullname": "fullname2",
+      "IsActive": true
+    },
+    {
+      "Id": 4,
+      "Username": "NguyenHoHung",
+      "Password": "hung55410",
+      "Fullname": "Nguyen Ho Hung",
+      "IsActive": true
+    },
+  ]
+}
